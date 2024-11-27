@@ -1,0 +1,8 @@
+# Wi-Fi settings
+CIRCUITPY_WIFI_SSID = "Nombre_de_la_red"
+CIRCUITPY_WIFI_PASSWORD = "contraseña_de_la_red"
+
+# Password for web interface
+CIRCUITPY_WEB_PASSWORD = "mi_contraseña_segura"
+
+#A la hora de ingresar la Ip en el navegador de pedira la contraseña ingresada para acceder al Esp32, se debe dejar el Usuario en blanco, solo se ingresa la contraseña puesta en el paso anterior.
