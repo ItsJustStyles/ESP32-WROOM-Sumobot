@@ -8,8 +8,8 @@ import socketpool
 ib = IdeaBoard()
 
 # Configuración de Wi-Fi
-ssid = "Familia Lacayo"
-password = "R276BNN56J3"
+ssid = "Nombre_red"
+password = "Contraseña_red"
 
 print("Conectando a Wi-Fi...")
 wifi.radio.connect(ssid, password)
